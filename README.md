@@ -1,7 +1,7 @@
 
 # TALKIT
 
-An upcoming online chat, a better and more optimal SLIDE online chat. Stay tuned.
+An upcoming online chat, a better and more optimal online chat than SLIDE. Stay tuned.
 
 
 ## Fronte
